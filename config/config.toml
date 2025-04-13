@@ -1,0 +1,11 @@
+[bot]
+token = "7909365355:AAGnjXMef1gITUOpN6nMay8ZrkZo2vu5KXY"
+chat_id = -4778278871
+
+
+[site]
+url = "https://tour-kassa.ru/курсы-валют-туроператоров"
+
+[scheduler]
+hour = 20
+minute = 47

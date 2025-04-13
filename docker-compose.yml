@@ -1,0 +1,6 @@
+services:
+
+  usd_notifier:
+    image: usd:latest
+    volumes:
+      - ./config/config.toml:/config.toml
